@@ -8,6 +8,6 @@
 | 25.10.2018 || [Why mentoring matters](https://medium.com/@alena_khineika/why-mentoring-matters-fe384ea27800) |
 | 21.11.2018 || [Relocation to Berlin](https://medium.com/@alena_khineika/relocation-to-berlin-fe81ee6e185d) |
 | 01.07.2019 | MongoDB Engineering Blog | [Transpiling between any programming languages (Part 1)](https://engineering.mongodb.com/post/transpiling-between-any-programming-languages-part-1) |
-| 12.08.2019 | Daily JS | [How to Format ESLint Output](https://medium.com/dailyjs/how-to-format-eslint-output-cfaef4262204) |
+| 12.08.2019 | Daily JS | [How to format ESLint output](https://medium.com/dailyjs/how-to-format-eslint-output-cfaef4262204) |
 | 03.10.2019 | The Startup | [Connection improvements in Compass](https://medium.com/swlh/connection-improvements-in-compass-45b284e03e07) |
 | 22.05.2020 | Daily JS | [Language server with child threads](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910) |
