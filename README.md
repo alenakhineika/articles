@@ -11,3 +11,4 @@
 | 12.08.2019 | Daily JS | [How to format ESLint output](https://medium.com/dailyjs/how-to-format-eslint-output-cfaef4262204) |
 | 03.10.2019 | The Startup | [Connection improvements in Compass](https://medium.com/swlh/connection-improvements-in-compass-45b284e03e07) |
 | 22.05.2020 | Daily JS | [The language server with child threads](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910) |
+| 29.03.2021 | Daily JS | [Serve images with AWS Lambda and Node.js](https://medium.com/dailyjs/serve-images-with-aws-lambda-ffd01abae845) |
