@@ -3,7 +3,7 @@
 | Date | Publisher | Article |
 | ----- | ---- | ---------- |
 | 17.03.2023 || [Multi-Language support in VSCode Text Documents](https://alena-khineika.medium.com/multi-language-support-in-vscode-text-documents-3d4f9cbeab1d) |
-| 15.01.2023 || [From React Sortable HOC to dnd kit](https://medium.com/front-end-weekly/from-react-sortable-hoc-to-dnd-kit-c17122dc67ba) |
+| 15.01.2023 || [From React Sortable HOC to dnd kit](https://alena-khineika.medium.com/from-react-sortable-hoc-to-dnd-kit-c17122dc67ba) |
 | 29.03.2021 | Daily JS | [Serve images with AWS Lambda and Node.js](https://medium.com/dailyjs/serve-images-with-aws-lambda-ffd01abae845) |
 | 22.05.2020 | Daily JS | [The language server with child threads](https://medium.com/dailyjs/the-language-server-with-child-threads-38ae915f4910) |
 | 03.10.2019 | The Startup | [Connection improvements in Compass](https://medium.com/swlh/connection-improvements-in-compass-45b284e03e07) |
